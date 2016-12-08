@@ -15,7 +15,8 @@ if nnz(roi) > 0
     imd(imd > 0) = 1; % convert into a binary map
     II = computeII_mex(imd);
     [boxes, lambda] = generate_box_mex(roi,str,imdfilled,II,thre_ratio);
-    box_lambda = horzcat(boxes, lambda);
+    %box_lambda = horzcat(boxes, lambda);
+    box_lambda = boxes; % noly output boxes
 else
     box_lambda = [];
 end
