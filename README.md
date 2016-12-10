@@ -9,3 +9,8 @@ This is an ROI selection method based on depth data. It reduces the search space
 4. run `demo()` to see what happens
 
 **Codes are well annotated so they are easy to read**
+
+If you have any questions, please do not hesitate to contact me: `kaiyangzhou92@gmail.com`
+
+## Reference
+Coming soon ...
