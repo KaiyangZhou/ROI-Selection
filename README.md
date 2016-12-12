@@ -8,6 +8,8 @@ This is an ROI selection method based on depth data. It reduces the search space
 3. run `build()` to generate **mex** files
 4. run `demo()` to see what happens
 
+`img.mat` contains a color image and an aligned depth image (in meters), which are obtained from [*RGBD people dataset*] (http://www2.informatik.uni-freiburg.de/~spinello/RGBD-dataset.html).
+
 **Codes are well annotated so they are easy to read**
 
 If you have any questions, please do not hesitate to contact me: `kaiyangzhou92@gmail.com`
