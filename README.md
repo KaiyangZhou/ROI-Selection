@@ -1,6 +1,6 @@
 # Depth-Based ROI Selection
 ## Overview
-This is the ROI selection method used in the paper[Detecting Humans in RGB-D Data with CNNs](https://kaiyangzhou.github.io/files/MVA17.pdf). It reduces the search space in an image and produces a set of square proposals. It was particularly designed for human upper body detection, but it can be modified to suit object detection as well.
+This is the ROI selection method used in the paper [Detecting Humans in RGB-D Data with CNNs](https://kaiyangzhou.github.io/files/MVA17.pdf). It reduces the search space in an image and produces a set of square proposals. It was particularly designed for human upper body detection, but it can be modified to suit object detection as well.
 
 ## How to use
 1. in command line run `git clone https://github.com/KaiyangZhou/ROI_Selection.git`
