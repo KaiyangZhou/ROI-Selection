@@ -16,7 +16,7 @@ If you have any questions regarding these codes, please do not hesitate to conta
 
 ## Reference
 ```
-@inbook{kzhou2017humandetect,
+@inproceedings{kzhou2017humandetect,
 title = {Detecting Humans in RGB-D Data with CNNs},
 author = {Kaiyang Zhou and Adeline Paiement and Majid Mirmehdi},
 year = {2017},
