@@ -12,8 +12,6 @@ This is the ROI selection method used in the paper [Detecting Humans in RGB-D Da
 
 Core functions are enclosed in `functions/roi_selection.m`. For detailed descriptions, please refer to [our paper](https://kaiyangzhou.github.io/files/MVA17.pdf).
 
-If you have any questions regarding these codes, please do not hesitate to contact me: `kaiyangzhou92@gmail.com`
-
 ## Reference
 ```
 @inproceedings{kzhou2017humandetect,
